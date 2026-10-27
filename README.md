@@ -46,7 +46,7 @@ For each experiment, I collected these numbers:
 
 ### Experiments
 
-Pipeline notebooks (00–09) are in [experiments](token-reduction-research/experiments); the other notebooks are in [pipeline](token-reduction-research/pipeline).
+Pipeline notebooks (00–09) are in [experiments](experiments); the other notebooks are in [pipeline](pipeline).
 
 | # | Auxiliary model | Strategy | Level | Initial prompt | Planner | Researcher | Builder | Critic |
 |---|---|---|---|---|---|---|---|---|
